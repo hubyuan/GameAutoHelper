@@ -25,7 +25,7 @@ rem 进入
 timeout 10
 
 rem 进入
-"%emuPath1%"\adb_server.exe -s 127.0.0.1:7555 shell input tap 1070 56
+"%emuPath1%"\adb_server.exe -s 127.0.0.1:7555 shell input tap 827 600
 timeout 10
 
 python plan.py

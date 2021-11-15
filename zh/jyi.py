@@ -9,6 +9,7 @@ from .base import base as d
 
 # 1280 720
 # d(text="浏览器").click()
+# 高度、宽度
 h = 1280
 w = 720
 
